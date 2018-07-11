@@ -2,6 +2,7 @@
 #include "sum.h"
 
 int main(){
-	printf("%d",sum(10));
+	printf("%d\n",sum(10));
 	return 0;
 }
+
